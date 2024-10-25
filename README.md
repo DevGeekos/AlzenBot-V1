@@ -11,4 +11,4 @@ Liste des fonctions :
 **Pour le déployer, rien de plus simple**
 1. Mettez un token dans la dernière ligne du fichier main.py
 2. Lancez start.bat
-3. Et voila !
+3. Et voila ! Les commandes du bot sont disponibles avec !help

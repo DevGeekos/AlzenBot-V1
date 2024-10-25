@@ -1,0 +1,6 @@
+@echo off
+title AlzenBot V1
+echo Installation des dépendances... 
+pip install -r requirements.txt
+echo Démarrage du bot...
+python main.py
